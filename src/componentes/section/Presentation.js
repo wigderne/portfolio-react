@@ -46,7 +46,7 @@ function Presentation() {
             <h1>Olá, eu sou {text}</h1>
             <p>
                 Sou graduado em Criação e Gestão em Ambientes Internet<br/> 
-                e pós-graduado em Administração de Banco de Dados. <br/>
+                e pós-graduado em Administração de Banco de Dados. <br/><br/>
                 Possuo experiência na área de Tecnologia da Informação, <br/>
                 com ênfase em Análise de Sistemas, Web Developer, <br/>
                 Administrador de Banco de Dados. 
